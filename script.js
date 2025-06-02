@@ -1,1 +1,1 @@
-console.log('Nutrition calculator loaded.');
+
